@@ -29,5 +29,5 @@ In Git bezeichnet man mit Index die Zwischenstufe zwischen Working Tree und Repo
 
 In Git bezeichnet man mit Branch einen Entwicklungszweig. Nützlich zur Entwicklung neuer Features aber auch zur Behebung von Bugs.
 
-Git ist ein verteiltes Versionsverwaltungssystem. Nennen Sie 2 weitere. Github, Markdown
+Git ist ein verteiltes Versionsverwaltungssystem. Nennen Sie 2 weitere. Subversion, CVS
 
